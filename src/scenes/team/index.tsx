@@ -1,4 +1,3 @@
-import React, { useState } from 'react';
 import { Box, Typography, useTheme } from '@mui/material';
 import { DataGrid, GridColumns } from '@mui/x-data-grid';
 import { mockDataTeam } from '../../data/MockData';
